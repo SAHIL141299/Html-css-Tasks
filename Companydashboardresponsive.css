@@ -1,0 +1,472 @@
+@media only screen and (max-width: 600px) {
+  .companylogo img {
+    margin-top: 3rem;
+    height: 40px;
+    width: 40px;
+  }
+
+  .manubaricon i {
+    font-size: 15px;
+  }
+
+  .manubaricon span {
+    font-size: 15px;
+  }
+
+  #container-semi {
+    margin-left: 2rem;
+    width: 90%;
+  }
+
+  .container-Navbar {
+    height: 3.5rem;
+    padding-left: 5rem;
+  }
+  .deshboard-title {
+    margin-top: 0.2rem;
+  }
+  .title-text1 {
+    font-size: 18px;
+  }
+
+  .title-text2 {
+    font-size: 14px;
+  }
+  .text-image {
+    margin-right: 12rem;
+    font-size: 13px;
+    font-weight: 100;
+  }
+
+  #container-contain-box-main {
+    margin: 7rem -1.4rem;
+    height: 25.1rem;
+    width: 85%;
+  }
+  .container-contain-box-semi {
+    flex-direction: column;
+  }
+  .contain-box-semi-1 {
+    flex-direction: column;
+  }
+
+  .user-image {
+    margin: 0 auto;
+  }
+
+  .user-image img {
+    height: 120px;
+    width: 120px;
+  }
+  .show-information {
+    width: 100%;
+  }
+  .info-box-1-txt {
+    font-size: 17px;
+    font-weight: 200;
+  }
+  .text {
+    font-size: 10px;
+  }
+  .info-box-1 div > i {
+    font-size: 10px;
+  }
+  .info-box-1-text-2 {
+    font-size: 13px;
+  }
+  .info-box-2-box1 {
+    padding: 0.2rem 0.5rem;
+  }
+  .info-box-2-txt1 {
+    font-size: 18px;
+    font-weight: 200;
+  }
+  .info-box-2-box2 {
+    padding: 0.2rem 0.7rem;
+  }
+  .info-box-2-txt2 {
+    font-size: 13px;
+  }
+  .container-contain-box-semi-2 {
+    height: 3rem;
+    padding-top: 2rem;
+    width: max-content;
+  }
+  .contain-box-semi-2-txt {
+    margin: 1rem 0;
+    font-size: 12px;
+    font-weight: 300;
+  }
+  #container-options {
+    margin-top: 0.5rem;
+  }
+  .opt {
+    font-size: 11px;
+    font-weight: 200;
+  }
+  .opt::after {
+    bottom: -4px;
+  }
+  #container-contain-box-main-2 {
+    margin-left: -1.5rem;
+    width: 88%;
+    flex-direction: column;
+    row-gap: 1rem;
+    padding-left: 0;
+  }
+  .container-contain-box-main-2-semi-1 {
+    width: 100%;
+    height: 10rem;
+  }
+  .-semi-2-txt {
+    font-size: 15px;
+    font-weight: 800;
+  }
+  .container-contain-box-main-2-semi-2 {
+    width: 100%;
+    height: 25%;
+  }
+  .-semi-2-txt-2 {
+    font-size: 10px;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .companylogo img {
+    height: 40px;
+    width: 40px;
+  }
+  .container-Navbar {
+    padding-left: 4rem;
+  }
+  .title-text1 {
+    font-size: 19px;
+  }
+  .title-text2 {
+    font-size: 14px;
+  }
+  .text-image {
+    margin-right: 8rem;
+    font-size: 15px;
+    font-weight: 100;
+  }
+  .manubaricon i {
+    font-size: 18px;
+  }
+  .manubaricon span {
+    font-size: 18px;
+  }
+  #container-semi {
+    margin-left: 2rem;
+    width: 100%;
+  }
+  #container-contain-box-main {
+    margin: 6rem -0.3rem;
+    height: 26rem;
+  }
+  .container-contain-box-semi {
+    flex-direction: column;
+  }
+  .contain-box-semi-1 {
+    flex-direction: column;
+    width: 100%;
+  }
+  .user-image {
+    margin: 0 auto;
+  }
+  .user-image img {
+    height: 140px;
+    width: 140px;
+  }
+  .show-information {
+    width: 100%;
+  }
+  .info-box-1-txt {
+    font-size: 20px;
+    font-weight: 100;
+  }
+  .text {
+    font-size: 11px;
+  }
+  .info-box-1 div > i {
+    font-size: 12px;
+  }
+  .info-box-1-text-2 {
+    font-size: 16px;
+  }
+  .info-box-2-box1 {
+    padding: 0.4rem 0.8rem;
+  }
+  .info-box-2-txt1 {
+    font-size: 20px;
+    font-weight: 200;
+  }
+  .info-box-2-box2 {
+    padding: 0.4rem 1rem;
+  }
+  .info-box-2-txt2 {
+    font-size: 15px;
+  }
+  .container-contain-box-semi-2 {
+    height: 3rem;
+    padding-top: 2rem;
+    width: max-content;
+  }
+  .contain-box-semi-2-txt {
+    margin: 1rem 0.5rem;
+    font-size: 12px;
+  }
+  #container-options {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    padding: 0.4rem 0.5rem;
+  }
+  .opt {
+    font-size: 13px;
+    font-weight: 300;
+    margin: 2.5rem 0.5rem;
+  }
+  .opt::after {
+    bottom: -3px;
+  }
+  #container-contain-box-main-2 {
+    margin-left: 0;
+    width: 94%;
+    flex-direction: column;
+    row-gap: 1.5rem;
+    padding-left: 0;
+  }
+  .container-contain-box-main-2-semi-1 {
+    width: 100%;
+    height: 18rem;
+  }
+  .-semi-2-txt {
+    font-size: 18px;
+  }
+  .container-contain-box-main-2-semi-2 {
+    width: 100%;
+    height: 7rem;
+  }
+  .-semi-2-txt-2 {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .sidebar {
+    width: 7%;
+  }
+  .companylogo img {
+    height: 60px;
+    width: 60px;
+  }
+  #container-semi {
+    margin-left: 3rem;
+  }
+  .container-Navbar {
+    height: 4.5rem;
+    padding-left: 5rem;
+  }
+  .title-text1 {
+    font-size: 20px;
+  }
+  .title-text2 {
+    font-size: 15px;
+  }
+  .text-image {
+    margin-right: 8rem;
+    font-size: 17px;
+    font-weight: 200;
+  }
+  .manubaricon i {
+    font-size: 20px;
+  }
+  .manubaricon span {
+    font-size: 20px;
+  }
+  #container-contain-box-main {
+    margin: 6rem -0.5rem;
+    height: 15.3rem;
+  }
+  .contain-box-semi-1 {
+    flex-direction: row;
+    width: 100%;
+  }
+  .user-image {
+    width: 25%;
+    padding-left: 1rem;
+  }
+  .user-image img {
+    height: 160px;
+    width: 160px;
+    margin-left: 0;
+  }
+  .info-box-1 div > i {
+    font-size: 13px;
+  }
+  .info-box-1-text-2 {
+    font-size: 16px;
+  }
+  .info-box-2-box1 {
+    padding: 0.5rem 0.9rem;
+  }
+  .info-box-2-txt1 {
+    font-size: 22px;
+    font-weight: 300;
+  }
+  .info-box-2-box2 {
+    padding: 0.5rem 1.2rem;
+  }
+  .info-box-2-txt2 {
+    font-size: 17px;
+  }
+  .container-contain-box-semi-2 {
+    width: max-content;
+  }
+  .contain-box-semi-2-txt {
+    font-size: 15px;
+  }
+  .container-options {
+    height: 5rem;
+  }
+  .opt {
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .opt::after {
+    bottom: -3px;
+  }
+  #container-contain-box-main-2 {
+    flex-direction: row;
+    padding-left: 0;
+    margin-left: -0.3rem;
+  }
+  .container-contain-box-main-2-semi-1 {
+    width: 50%;
+  }
+  .-semi-2-txt {
+    font-size: 20px;
+  }
+  .-semi-2-txt-2 {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .sidebar {
+    width: 8%;
+    height: 100%;
+  }
+
+  .companylogo img {
+    height: 90px;
+    width: 90px;
+  }
+  .container-Navbar {
+    height: 4.5rem;
+    padding-left: 8rem;
+  }
+  .title-text1 {
+    font-size: 21px;
+  }
+  .title-text2 {
+    font-size: 14px;
+  }
+  .text-image {
+    margin-right: 12rem;
+    font-size: 20px;
+    font-weight: 200;
+  }
+  .manubaricon i {
+    font-size: 22px;
+  }
+  .manubaricon span {
+    font-size: 32px;
+  }
+  #container-contain-box-main {
+    margin: 7rem 1.3rem;
+    height: 13.8rem;
+    padding: 2rem 1.5rem;
+  }
+  .container-contain-box-semi {
+    flex-direction: row;
+  }
+  #container-semi {
+    margin-left: 5rem;
+  }
+  .contain-box-semi-1 {
+    flex-direction: row;
+    width: 75%;
+  }
+  .user-image {
+    width: 30%;
+    padding-left: 0;
+  }
+  .user-image img {
+    height: 178px;
+    width: 178px;
+  }
+  .show-information {
+    width: 100%;
+  }
+  .info-box-1-txt {
+    font-size: 25px;
+    margin-left: 0;
+  }
+  .info-box-1 div > i {
+    font-size: 12px;
+    margin-left: 0.5rem;
+  }
+  .info-box-1-text-2 {
+    font-size: 14px;
+  }
+  .info-box-2-box1 {
+    padding: 0.6rem 1rem;
+  }
+  .info-box-2-txt1 {
+    font-size: 24px;
+    font-weight: 400;
+  }
+  .info-box-2-box2 {
+    padding: 0.5rem 1.2rem;
+  }
+  .info-box-2-txt2 {
+    font-size: 19px;
+  }
+  .container-contain-box-semi-2 {
+    width: 30%;
+    padding-top: 0;
+    justify-content: end;
+    display: flex;
+    flex-direction: row;
+  }
+  .contain-box-semi-2-txt {
+    padding: 0.9rem 0.9rem;
+    font-size: 15px;
+    font-weight: 500;
+    height: 0.9rem;
+  }
+  #container-options {
+    margin-top: 1.5rem;
+    padding: 0.9rem 1rem;
+  }
+  .opt {
+    font-size: 17px;
+    font-weight: 600;
+  }
+  .opt::after {
+    bottom: -15px;
+  }
+  #container-contain-box-main-2 {
+    width: 96%;
+    flex-direction: row;
+    margin-left: 1.3rem;
+    column-gap: 2rem;
+  }
+  .container-contain-box-main-2-semi-2 {
+    width: 45%;
+  }
+  .container-contain-box-main-2-semi-1 {
+    width: 55%;
+  }
+}
